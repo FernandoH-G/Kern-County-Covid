@@ -6,11 +6,13 @@ This site will show as much publicly available covid data for kern county. Data 
 ## Tech Goals
 + Use Node/Express backend.
 + Implement Tailwind CSS.
++ Learn TypeScript.
 + Make use of useEffect(), useCallback(), etc.
 
 ## Academic Goals
 + Continue to develop my Reactjs skills.
 + Use more react hooks.
++ Get some experience building a site with TypeScript. Type safety is cool.
 
 ## Future Plans
 + Advertise website.
